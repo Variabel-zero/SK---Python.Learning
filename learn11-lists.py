@@ -7,6 +7,8 @@ gabung = ['Satria',45,'satu',100]
 #tabah data hasan pada list orang
 orang.append('Hasan') 
 
+#edit orang 
+orang[2] = 'Supardi Joko'
 
 print(orang)
 print(angka)
