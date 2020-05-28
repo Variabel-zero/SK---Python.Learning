@@ -2,6 +2,8 @@
 Sequances
 
 Tuples =  List yang sifatnya immutable / datanya mutlak tidak bisa di ubah ( ditambah,deit,dihapus)
+Tuple mengugnakan ()
+
 """
 
 orang = ('Satria','Hasan','abdul')

@@ -1,4 +1,5 @@
 #list adalah variabel yan berisi kumpulan data
+#list mengugnakan []
 
 orang = ['Satria','Agus','Supardi']
 angka = [3,6,7,5,4]
